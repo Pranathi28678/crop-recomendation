@@ -1,6 +1,4 @@
-Based on the initial cells in the new notebook, here is a comprehensive README file for the project:
 
----
 
 # Prediction of Parkinson's Disease Using Machine Learning
 
